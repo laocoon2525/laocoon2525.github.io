@@ -1,2 +1,1 @@
-# laocoon2525.github.io
-something
+# Repository to maintain laocoon.codes blog posts 
