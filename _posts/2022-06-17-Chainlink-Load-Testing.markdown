@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Chainkink load testing
+title:  Chainlink load testing
 date:   2022-06-17 14:54:41 -0700
 categories: Gatling Load Testing Chainlink
 ---
